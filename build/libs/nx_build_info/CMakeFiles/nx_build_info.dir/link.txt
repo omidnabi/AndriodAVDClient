@@ -1,0 +1,2 @@
+/usr/bin/ar qc libnx_build_info.a CMakeFiles/nx_build_info.dir/nx_build_info_autogen/mocs_compilation.cpp.o CMakeFiles/nx_build_info.dir/src/nx/build_info_proxy.cpp.o CMakeFiles/nx_build_info.dir/build_info.cpp.o CMakeFiles/nx_build_info.dir/src/nx/moc_build_info.cpp.o CMakeFiles/nx_build_info.dir/src/nx/moc_build_info_proxy.cpp.o
+/usr/bin/ranlib libnx_build_info.a

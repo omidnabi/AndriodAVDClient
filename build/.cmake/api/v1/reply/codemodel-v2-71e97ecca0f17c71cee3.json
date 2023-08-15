@@ -1,0 +1,122 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				},
+				{
+					"build" : "libs",
+					"childIndexes" : 
+					[
+						2
+					],
+					"jsonFile" : "directory-libs-ec580da4e47c3b0e73da.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "libs"
+				},
+				{
+					"build" : "libs/nx_build_info",
+					"jsonFile" : "directory-libs.nx_build_info-8a9afd41f71e4b66da99.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "libs/nx_build_info",
+					"targetIndexes" : 
+					[
+						2,
+						3
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "QMLDesktopExample",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "QMLDesktopExample::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QMLDesktopExample-4194bc93904299ae19dd.json",
+					"name" : "QMLDesktopExample",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QMLDesktopExample_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QMLDesktopExample_autogen-873c6e1b31071a79c653.json",
+					"name" : "QMLDesktopExample_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "nx_build_info::@fda9e8567cab06427a07",
+					"jsonFile" : "target-nx_build_info-4e942f178f059028a3f0.json",
+					"name" : "nx_build_info",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "nx_build_info_autogen::@fda9e8567cab06427a07",
+					"jsonFile" : "target-nx_build_info_autogen-891f20956a31896ca384.json",
+					"name" : "nx_build_info_autogen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/omidnabi/Working/upWork_projects/mobile_qt_ffmpeg_example/build",
+		"source" : "/home/omidnabi/Working/upWork_projects/mobile_qt_ffmpeg_example"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
