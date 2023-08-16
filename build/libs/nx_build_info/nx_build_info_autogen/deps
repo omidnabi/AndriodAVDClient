@@ -1,0 +1,6 @@
+nx_build_info_autogen/timestamp: \
+	/home/omidnabi/Working/upWork_projects/mobile_qt_ffmpeg_example/build/libs/nx_build_info/build_info.cpp \
+	/home/omidnabi/Working/upWork_projects/mobile_qt_ffmpeg_example/libs/nx_build_info/CMakeLists.txt \
+	/home/omidnabi/Working/upWork_projects/mobile_qt_ffmpeg_example/libs/nx_build_info/build_info.cpp.in \
+	/home/omidnabi/Working/upWork_projects/mobile_qt_ffmpeg_example/libs/nx_build_info/src/nx/build_info_proxy.cpp \
+	/usr/bin/cmake
