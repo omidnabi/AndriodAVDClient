@@ -1,1 +1,0 @@
-add_subdirectory(nx_build_info)
